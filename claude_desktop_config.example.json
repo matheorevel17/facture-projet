@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "factures": {
+      "command": "/home/revel-matheo/IG5/Archi data/Projet/.venv/bin/python",
+      "args": [
+        "/home/revel-matheo/IG5/Archi data/Projet/mcp_server.py"
+      ]
+    }
+  }
+}
